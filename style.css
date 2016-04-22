@@ -1,0 +1,49 @@
+/*element {
+
+		}*/
+		
+		div {
+			width: 50%;
+			float: left;
+		}
+
+		/*float is the gravity of an element. left -- stuck to the left. */
+
+		h1 {
+			color: blue;
+		}
+		p {
+			margin-top: 50px;
+			font-style: none;
+		}
+		p, ul, ol {
+			color: green;
+		}
+
+		img {
+			width: 90%;
+			/*not full 100% because of the body padding. use % or px. use em for text*/
+		}
+
+		#heading {
+			font-size: 50px;
+			/*attribute at the end wins if conflicting. id denoted by # hashtag*/
+		}
+
+		.paragraph {
+			font-style: italic;
+			/*classes are denoted by . period*/
+		}
+
+		p.paragraph.introduction.featured {
+			/*so specific that it is more powerful*/
+			padding-left: 20px;
+		}
+
+		div ul li {
+			background-color: red;
+		}
+
+		div ol li {
+			background-color: blue;
+		}
