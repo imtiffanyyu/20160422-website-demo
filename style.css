@@ -4,7 +4,7 @@
 		
 		* {
 			font-family: "Trebuchet MS", Helvetica, sans-serif;
-		}
+		}	
 
 		div {
 			width: 50%;
@@ -14,7 +14,7 @@
 		/*float is the gravity of an element. left -- stuck to the left. */
 
 		h1 {
-			color: blue;
+			color: gray;
 		}
 		p {
 			margin-top: 50px;
