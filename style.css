@@ -2,6 +2,10 @@
 
 		}*/
 		
+		* {
+			font-family: "Trebuchet MS", Helvetica, sans-serif;
+		}
+
 		div {
 			width: 50%;
 			float: left;
@@ -41,7 +45,7 @@
 		}
 
 		div ul li {
-			background-color: red;
+			background-color: gray;
 		}
 
 		/*div ol li {
